@@ -89,8 +89,9 @@ public class task003_1 {
             if ((Integer) list.get(i) % 2 == 0) {
                 // System.out.println(list.get(i));
                 list.remove(i);
+                i--;
             }
-            else continue;
+            
         }
 
         return list;
