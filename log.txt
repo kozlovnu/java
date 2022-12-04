@@ -1,0 +1,62 @@
+Dec 02, 2022 6:06:34 PM HomeWork.task002 main
+INFO: [8, 7, 2, 9, 4, 5, 6, 2, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 8, 2, 9, 4, 5, 6, 2, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 9, 4, 5, 6, 2, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 4, 9, 5, 6, 2, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 4, 5, 9, 6, 2, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 4, 5, 6, 9, 2, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 4, 5, 6, 2, 9, 3, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 4, 5, 6, 2, 3, 9, 5]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [7, 2, 8, 4, 5, 6, 2, 3, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 8, 4, 5, 6, 2, 3, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 4, 8, 5, 6, 2, 3, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 4, 5, 8, 6, 2, 3, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 4, 5, 6, 8, 2, 3, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 4, 5, 6, 2, 8, 3, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 4, 5, 6, 2, 3, 8, 5, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 7, 4, 5, 6, 2, 3, 5, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 7, 5, 6, 2, 3, 5, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 7, 6, 2, 3, 5, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 6, 7, 2, 3, 5, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 6, 2, 7, 3, 5, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 6, 2, 3, 7, 5, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 6, 2, 3, 5, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 2, 6, 3, 5, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 2, 3, 6, 5, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 5, 2, 3, 5, 6, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 2, 5, 3, 5, 6, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 4, 2, 3, 5, 5, 6, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 2, 4, 3, 5, 5, 6, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 BubbleSort
+INFO: [2, 2, 3, 4, 5, 5, 6, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 main
+INFO: [2, 2, 3, 4, 5, 5, 6, 7, 8, 9]
+Dec 02, 2022 6:06:34 PM HomeWork.task002 Calc
+INFO: 0.5714286
