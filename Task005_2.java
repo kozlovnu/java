@@ -3,7 +3,7 @@ package HomeWork;
 import java.util.HashMap;
 import java.util.Map;
 
-public class task005_2 {
+public class Task005_2 {
     public static void main(String[] args) {
         String[] nameWorkers = { "Иван", "Петр", "Антон", "Сергей", "Иван",
                 "Антон", "Иван", "Антон", "Иван", "Петр", "Антон", "Сергей", "Антон", "Антон" };
