@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Notebook nbApple = new Notebook("Apple", "16", "darkgrey", "macOs", "256");
         Notebook nbHP = new Notebook("HP", "8", "silver", "windows", "500");
