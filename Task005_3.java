@@ -1,6 +1,6 @@
 package HomeWork;
 
-public class task005_3 {
+public class Task005_3 {
     // Реализовать алгоритм пирамидальной сортировки (HeapSort)
     public static void main(String[] args) {
         int[] arr = { 0, 25, -6, 6, 12, 80, -99, 8, -2, 27 };
