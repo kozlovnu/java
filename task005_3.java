@@ -52,5 +52,5 @@ public class task005_3 {
             System.out.print(arr[i] + " ");
         System.out.println();
     }
-    
+
 }
