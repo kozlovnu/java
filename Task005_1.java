@@ -3,7 +3,7 @@ package HomeWork;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class task005_1 {
+public class Task005_1 {
 
     public static void main(String[] args) {
 
